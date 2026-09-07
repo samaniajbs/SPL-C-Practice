@@ -1,7 +1,7 @@
 # SPL-C-Practice
 My C programming practice and problem-solving journey for the Structured Programming Language (SPL) course.
 
-# SPL C Programming Practice
+
 
 This repository contains my C programming practice and solutions from my Structured Programming Language (SPL) course.
 
