@@ -24,6 +24,3 @@ This repository contains my C programming practice and solutions from my Structu
 
 More topics and solutions will be added as I progress through the course.
 
----
-
-👩‍💻 CSE Student | Learning C Programming
