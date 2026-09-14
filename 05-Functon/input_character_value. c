@@ -1,0 +1,15 @@
+void func(char value)
+{
+    printf("%c",value);
+}
+
+
+int main()
+{
+    char a;
+    scanf("%c",&a);
+    func(a);
+
+
+    return 0;
+}
