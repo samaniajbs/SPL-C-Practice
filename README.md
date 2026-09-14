@@ -14,6 +14,7 @@ This repository contains my C programming practice and solutions from my Structu
 - Pattern Printing
 - Arrays
 - 2D Arrays and Matrices
+- Function
 
 ## Repository Structure
 
@@ -21,6 +22,7 @@ This repository contains my C programming practice and solutions from my Structu
 📂 Digit Problems  
 📂 Arrays  
 📂 2D Arrays  
+📂 Function
 
 More topics and solutions will be added as I progress through the course.
 
